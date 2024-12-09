@@ -1,5 +1,3 @@
-from functools import cmp_to_key
-
 from aoc_solutions.framework import BaseDay
 
 
