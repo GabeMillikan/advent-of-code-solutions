@@ -1,6 +1,6 @@
 from typing import Callable
 
-from aoc_solutions.common import BaseDay
+from aoc_solutions.framework import BaseDay
 
 
 class Day(BaseDay):

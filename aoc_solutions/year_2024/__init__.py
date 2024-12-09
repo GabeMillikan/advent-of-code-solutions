@@ -1,4 +1,4 @@
-from aoc_solutions.common import Year
+from aoc_solutions.framework import Year
 
 from . import day_1, day_2, day_3, day_4
 
